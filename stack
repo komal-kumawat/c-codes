@@ -1,0 +1,21 @@
+//major questions
+// 1-4 have the same concept and using this concept we will solve problems till 7
+1.Nearest Greater to left
+2. Nearest Greater to right
+3. Nearest smaller to left
+4. Nearest smaller to right
+5.stock span problem
+6.minimum area of hist ogram
+7. max area of rectangle in binary matrix
+// conceptual problem
+8. rain water trapping 
+9. implementing a min stack
+10.implementing stack using heap
+11. the celebrity problem
+12. longest valid parantheis
+14. Iterative TOH
+  
+  //identification of stack questions
+ 1. mainly in case of array
+ 2. when the 2nd loop is dependent on the first loop then by using stack we can reduce time complexity
+ 
